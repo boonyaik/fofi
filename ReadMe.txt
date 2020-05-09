@@ -1,6 +1,6 @@
 FoFi - This program is written to remove folders and retain files only. 
 
-If you happened to have many files in nested folders and want to remove all the folders and retain the files, this is the program. The source code is included, feel free to modify it. 
+If you happen to have many files in nested folders and want to remove all the folders and retain the files, this is the program. The source code is included, feel free to modify it. 
 
 The executable is tested on Win10 in the bin directory, you can download and use directly.  
 
