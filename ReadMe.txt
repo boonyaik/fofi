@@ -14,25 +14,25 @@ For example,
 Select folder with nested directories. 
 
  FolderA
- |__> File01.txt
- |__> FolderSubA __> File02.jpg
- |__> FolderSubB __> File03.mp3
+ |--> File01.txt
+ |--> FolderSubA --> File02.jpg
+ |--> FolderSubB --> File03.mp3
  
 
 Output in the destination folder will be as follow:-
 
  FolderB
- |__>File01.txt
- |__>FolderSubA__File02.jpg
- |__>FolderSubA__File03.mp3
+ |-->File01.txt
+ |-->FolderSubA__File02.jpg
+ |-->FolderSubA__File03.mp3
  
  
  If you UNCHECHED Augment folder name on file names, the following is the output. You can decide if you want to overwrite the files in the event of same filename found in different folder. 
  
  FolderB
- |__>File01.txt
- |__>File02.jpg
- |__>File03.mp3
+ |-->File01.txt
+ |-->File02.jpg
+ |-->File03.mp3
 
 
  
