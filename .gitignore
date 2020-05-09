@@ -1,0 +1,10 @@
+.vs/
+obj/
+Properties/
+/bin/Debug/*.txt
+/bin/Debug/*.config
+/bin/Debug/*.pdb
+/bin/Release/*.txt
+/bin/Release/*.config
+/bin/Release/*.pdb
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xtractor", "Xtractor.csproj", "{76BA2604-5F10-4FE3-A00E-ED072CD3678B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76BA2604-5F10-4FE3-A00E-ED072CD3678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BA2604-5F10-4FE3-A00E-ED072CD3678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BA2604-5F10-4FE3-A00E-ED072CD3678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BA2604-5F10-4FE3-A00E-ED072CD3678B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E85FEFC-5C73-421F-BB34-83B6CA1D8220}
+	EndGlobalSection
+EndGlobal
